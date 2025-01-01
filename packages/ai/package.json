@@ -5,7 +5,7 @@
   "dependencies": {
     "@ai-sdk/openai": "^1.0.6",
     "@repo/env": "workspace:*",
-    "ai": "^4.0.11"
+    "ai": "^4.0.22"
   },
   "devDependencies": {
     "@repo/typescript-config": "workspace:*"
