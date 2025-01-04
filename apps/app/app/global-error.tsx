@@ -12,6 +12,7 @@ type GlobalErrorProperties = {
 };
 
 const GlobalError = ({ error, reset }: GlobalErrorProperties) => {
+  
   useEffect(() => {
     captureException(error);
   }, [error]);

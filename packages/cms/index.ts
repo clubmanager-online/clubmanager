@@ -1,3 +1,4 @@
+// @ts-ignore
 import { basehub as basehubClient, fragmentOn } from 'basehub';
 import { keys } from './keys';
 
